@@ -1,0 +1,10 @@
+2. Given a linked list of size K, your task is to complete the function
+sum_of_lastN_nodes(), which should return the sum of last N nodes
+of the linked list. The function takes two arguments as input, the
+reference pointer of the head of the linked list and the integer N.
+Example:
+5->10->6->4->1->12
+N = 3
+sum_of_lastN_nodes(6, N)
+Output: Sum of last three nodes in the linked list is 4 + 1 + 12 = 15.
+
